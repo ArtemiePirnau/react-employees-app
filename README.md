@@ -5,7 +5,7 @@ An application where you can add, delete, search, filter and modify workers.
 
 The application was made with basic knowledge of React, such as: props, class components, functional components, events, personal events, hooks.
 
-The project was done after a break.
+The project was done after a break, that's why i've used basic knowledge.
 
 # Installation
 First of all install all npm packages with the command:
