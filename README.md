@@ -2,7 +2,9 @@
 
 # Description
 An application where you can add, delete, search, filter and modify workers.
+
 The application was made with basic knowledge of React, such as: props, class components, functional components, events, personal events, hooks.
+
 The project was done after a break.
 
 # Installation
