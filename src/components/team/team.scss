@@ -1,0 +1,22 @@
+.team__header-filters {
+  text-align: right;
+  margin-bottom: 50px;
+}
+.team__header-add {
+  cursor: pointer;
+  margin-right: 20px;
+}
+.team__header-add,
+.team__header-select {
+  text-transform: uppercase;
+  background-color: #17181a;
+  border: 1px solid #fff;
+  color: #fff;
+  border-radius: 3px;
+  padding: 10px;
+}
+.team__list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
